@@ -66,6 +66,6 @@ export const siteConfig = {
     maxOutputTokens: 150,
     temperature: 0.85,
   },
-  friendLinkApplyFormat: "名称：琉璃の小小博客\n简介：今天我也要学习吗\n链接：https://www.xinghuisama.top\n头像：https://bee-reg-ab.imagency.cn/e/3ca36ac7404cb71fc7fae4f073b385be.png",
+  friendLinkApplyFormat: "名称：琉璃の小小博客\n简介：我也要学吗\n链接：https://ruiuri.vercel.app\n头像：https://bee-reg-ab.imagency.cn/e/3ca36ac7404cb71fc7fae4f073b385be.png",
   enableLevelSystem: true,
 };
